@@ -1,0 +1,10 @@
+pertama kali download lakukan npm install
+lalu jalan kan yarn dev atau npm dev
+
+
+install sequelize :
+1. npm install --save sequelize
+2. npm install --save sequelize-cli
+3. node_modules/.bin/sequelize init
+4. node_modules/.bin/sequelize db:create
+5. node_modules/.bin/sequelize db:migrate
